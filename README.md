@@ -4,3 +4,7 @@ This project is a clone of the Netflix front-end, built with React. The purpose 
 # Features
 Responsive Design: The application is fully responsive and works on a variety of screen sizes.
 Movie Listings: Displays a list of movies fetched from a movie API.
+
+# Deployed Ver
+
+https://netflix-clone-e4903.web.app/
